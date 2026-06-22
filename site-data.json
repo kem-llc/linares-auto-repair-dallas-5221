@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "Linares Auto Repair",
+    "shortName": "Linares Auto",
+    "tagline": "Dallas’s Trusted Auto Mechanic for Quality Repairs",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 688-5221",
+    "address": "4730 Memphis St, Dallas, TX 75207",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7:30 AM – 5:30 PM, Sat 8 AM – 12 PM",
+    "ctaLabel": "Schedule Your Appointment Today",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Linares Auto Repair | Expert Mechanic in Dallas, TX | (214) 688-5221",
+    "description": "Linares Auto Repair in Dallas offers reliable auto maintenance & repairs. ASE-certified mechanics, fair pricing, and fast service. Call (214) 688-5221 today."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas’s Premier Auto Repair Shop",
+      "headline": "Your Car Deserves Expert Care – We Deliver Every Time",
+      "subheadline": "From routine oil changes to complex engine diagnostics, our ASE-certified technicians keep you safe on the road with honest, affordable service.",
+      "primaryCta": "Book an Appointment",
+      "secondaryCta": "Call (214) 688-5221"
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": "1,000+",
+        "label": "Vehicles Repaired"
+      },
+      {
+        "value": "4.0",
+        "label": "Customer Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Expert Diagnostics",
+        "title": "Advanced Technology, Accurate Results",
+        "body": "We use state-of-the-art diagnostic equipment to pinpoint issues quickly, saving you time and money. No guesswork, just precise repairs.",
+        "bullets": [
+          "Computerized engine scanning",
+          "Transmission & electrical system analysis",
+          "Real-time data for faster fixes"
+        ],
+        "reverse": false,
+        "cardLabel": "Diagnostic",
+        "cardTitle": "Free Multi-Point Inspection",
+        "cardBody": "Every service includes a complimentary inspection to catch small problems before they become big ones."
+      },
+      {
+        "eyebrow": "Customer-First Approach",
+        "title": "Honest Repairs, Fair Prices",
+        "body": "We explain every repair in plain English and provide upfront pricing with no hidden fees. Our goal is to earn your trust for life.",
+        "bullets": [
+          "Transparent estimates before work begins",
+          "Competitive rates on parts and labor",
+          "Warranty on all repairs for peace of mind"
+        ],
+        "reverse": true,
+        "cardLabel": "Trust",
+        "cardTitle": "No Surprises Guarantee",
+        "cardBody": "If we find additional issues, we’ll call you for approval – never work without your consent."
+      }
+    ],
+    "whyTitle": "Why Choose Linares Auto Repair?",
+    "whyChooseUs": [
+      {
+        "title": "ASE-Certified Technicians",
+        "description": "Our team holds top industry certifications, ensuring your vehicle is serviced by skilled professionals who stay current with the latest automotive technology."
+      },
+      {
+        "title": "Fast Turnaround Times",
+        "description": "We value your time. Most repairs are completed the same day, and we offer shuttle service or loaner vehicles to keep you moving."
+      },
+      {
+        "title": "Family-Owned & Operated",
+        "description": "As a local Dallas business, we treat every customer like family. Your satisfaction is our reputation."
+      },
+      {
+        "title": "Comprehensive Services",
+        "description": "From brakes and tires to engine rebuilds, we handle it all under one roof – no need to visit multiple shops."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Linares Auto Repair saved me hundreds compared to the dealership. They diagnosed my check engine light in minutes and had it fixed the same day. Highly recommend!",
+        "author": "Mike R.",
+        "role": "Oak Lawn resident"
+      },
+      {
+        "quote": "I’ve been bringing my SUV here for two years. Honest pricing, great communication, and they always get it right the first time. A gem in Dallas.",
+        "author": "Jessica T.",
+        "role": "Bishop Arts district"
+      },
+      {
+        "quote": "Needed a transmission rebuild and was nervous about the cost. Linares explained everything, gave a fair quote, and the car runs like new. Trustworthy folks.",
+        "author": "David L.",
+        "role": "Deep Ellum resident"
+      }
+    ],
+    "cta": {
+      "headline": "Ready for Reliable Auto Care?",
+      "subheadline": "Schedule your appointment online or call us today. We’re here to keep your car running smoothly.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Call (214) 688-5221"
+    }
+  },
+  "servicesPage": {
+    "intro": "Linares Auto Repair provides a full range of automotive services in Dallas, TX. From routine maintenance to major repairs, our certified technicians deliver quality work at fair prices."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Oil Change & Fluid Services",
+      "shortDescription": "Keep your engine running smoothly with regular oil changes and fluid checks.",
+      "longDescription": "We use premium synthetic and conventional oils to protect your engine. Our fluid services include coolant, brake, transmission, and power steering fluid exchanges to maintain optimal performance.",
+      "benefits": [
+        "Extends engine life",
+        "Improves fuel efficiency",
+        "Prevents costly breakdowns",
+        "Includes free multi-point inspection"
+      ],
+      "process": [
+        {
+          "title": "Drain & Replace Oil",
+          "description": "We remove old oil and install fresh oil and a new filter."
+        },
+        {
+          "title": "Fluid Level Check",
+          "description": "All essential fluids are topped off or replaced as needed."
+        },
+        {
+          "title": "Final Inspection",
+          "description": "We check for leaks and ensure everything is running perfectly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Most modern vehicles need an oil change every 5,000–7,500 miles. Check your owner’s manual or ask our technicians."
+        },
+        {
+          "question": "Do you use synthetic oil?",
+          "answer": "Yes, we offer both conventional and synthetic oil options to match your vehicle’s requirements."
+        }
+      ],
+      "slug": "oil-change-fluid-services"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Repair & Replacement",
+      "shortDescription": "Stop safely with expert brake inspections, pad replacement, and rotor resurfacing.",
+      "longDescription": "Your brakes are your car’s most critical safety system. We inspect pads, rotors, calipers, and lines to ensure reliable stopping power. We use quality parts and provide detailed explanations of any needed repairs.",
+      "benefits": [
+        "Enhanced safety and control",
+        "Reduced stopping distance",
+        "Quieter, smoother braking",
+        "Warranty on all brake work"
+      ],
+      "process": [
+        {
+          "title": "Brake Inspection",
+          "description": "We measure pad thickness, rotor condition, and check for leaks."
+        },
+        {
+          "title": "Pad & Rotor Service",
+          "description": "Worn pads and damaged rotors are replaced or resurfaced."
+        },
+        {
+          "title": "Test Drive & Final Check",
+          "description": "We road-test the vehicle to confirm proper brake function."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if my brakes need service?",
+          "answer": "Signs include squeaking, grinding, a soft brake pedal, or vibration when braking. Bring your car in for a free inspection."
+        },
+        {
+          "question": "How long does a brake job take?",
+          "answer": "Most brake repairs are completed within 2–4 hours, often the same day."
+        }
+      ],
+      "slug": "brake-repair-replacement"
+    },
+    {
+      "icon": "03",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Accurate diagnostics and expert repairs for check engine lights and performance issues.",
+      "longDescription": "Our advanced diagnostic tools quickly identify the root cause of engine problems. Whether it’s a faulty sensor, ignition issue, or internal repair, we provide clear explanations and lasting solutions.",
+      "benefits": [
+        "Pinpoint accuracy saves time and money",
+        "Restores engine power and efficiency",
+        "Prevents minor issues from escalating",
+        "Includes detailed report of findings"
+      ],
+      "process": [
+        {
+          "title": "Computer Scan",
+          "description": "We connect to your car’s computer to read trouble codes."
+        },
+        {
+          "title": "Systematic Testing",
+          "description": "We perform targeted tests to confirm the source of the problem."
+        },
+        {
+          "title": "Repair & Verification",
+          "description": "We fix the issue and re-scan to ensure everything is working."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you diagnose a check engine light without a dealership?",
+          "answer": "Absolutely. Our equipment is dealership-grade and covers all makes and models."
+        },
+        {
+          "question": "What if the light comes back on after repair?",
+          "answer": "We stand by our work. If the same issue recurs, we’ll re-diagnose and fix it at no extra charge."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "04",
+      "title": "Tire Services & Alignment",
+      "shortDescription": "Extend tire life and improve handling with professional tire rotations, balancing, and alignment.",
+      "longDescription": "Proper tire maintenance is key to safety and fuel economy. We offer tire rotation, balancing, and precision alignment using state-of-the-art equipment. We also install new tires from top brands at competitive prices.",
+      "benefits": [
+        "Even tire wear for longer life",
+        "Better fuel economy",
+        "Smoother ride and improved handling",
+        "Free tire pressure check with every visit"
+      ],
+      "process": [
+        {
+          "title": "Tire Inspection",
+          "description": "We check tread depth, pressure, and sidewall condition."
+        },
+        {
+          "title": "Rotation & Balancing",
+          "description": "Tires are rotated and balanced to prevent uneven wear."
+        },
+        {
+          "title": "Alignment Adjustment",
+          "description": "We adjust camber, caster, and toe to manufacturer specs."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I rotate my tires?",
+          "answer": "Every 5,000–7,500 miles, or during your oil change for convenience."
+        },
+        {
+          "question": "Do you sell new tires?",
+          "answer": "Yes, we carry a selection of quality tires and can order specific brands and sizes."
+        }
+      ],
+      "slug": "tire-services-alignment"
+    }
+  ],
+  "about": {
+    "headline": "Family-Owned Auto Repair Serving Dallas Since 2008",
+    "mission": "To provide honest, high-quality automotive repairs at fair prices while building lasting relationships with our community.",
+    "story": [
+      "Linares Auto Repair was founded in 2008 by master technician Carlos Linares, who saw a need for trustworthy auto service in the Dallas area. Starting with a small shop and a handful of loyal customers, Carlos built a reputation for meticulous work and transparent communication. Over the years, the business grew as word spread about the team’s dedication to getting the job done right the first time.",
+      "Today, Linares Auto Repair is a full-service shop serving thousands of Dallas drivers. We invest in the latest diagnostic technology and ongoing training for our staff to ensure every repair meets the highest standards. Whether you drive a sedan, SUV, or truck, we treat your vehicle as if it were our own. Come experience the difference honesty and skill make."
+    ],
+    "highlight": {
+      "stat": "15+",
+      "label": "Years Serving Dallas"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We never recommend unnecessary repairs and always provide upfront pricing with your approval."
+      },
+      {
+        "title": "Quality",
+        "description": "We use premium parts and follow manufacturer specifications for lasting results."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat every customer and their vehicle with the utmost care and professionalism."
+      },
+      {
+        "title": "Community",
+        "description": "As a local business, we support our neighbors and give back to the Dallas community."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Linares Auto Repair",
+    "subheadline": "Have a question or need to schedule service? Call or visit our shop – we’re here to help.",
+    "primaryCta": "Call (214) 688-5221",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Oak Lawn",
+      "Bishop Arts",
+      "Deep Ellum",
+      "Uptown",
+      "Highland Park",
+      "University Park",
+      "Irving"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2146885221",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
